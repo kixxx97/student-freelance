@@ -1,0 +1,21 @@
+
+.jobs ul {
+  list-style-type: none;
+   width: 600px;
+   margin: auto;
+}
+
+
+.jobs li p {
+}
+
+.jobs li {
+  padding: 20px;
+  margin-bottom: 15px;
+  background-color: #fff9f5;
+}
+
+.jobs li:hover {
+  background: #ffefe5;
+  cursor: pointer;
+}
